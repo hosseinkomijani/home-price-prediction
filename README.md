@@ -5,11 +5,11 @@ Each record in the database describes a Boston suburb or town. The data was draw
 
 There are 14 attributes in each case of the dataset. They are:
 
-CRIM - per capita crime rate by town
-ZN - proportion of residential land zoned for lots over 25,000 sq.ft.
-INDUS - proportion of non-retail business acres per town.
-CHAS - Charles River dummy variable (1 if tract bounds river; 0 otherwise)
-NOX - nitric oxides concentration (parts per 10 million)
+1 CRIM - per capita crime rate by town
+2 ZN - proportion of residential land zoned for lots over 25,000 sq.ft.
+3 INDUS - proportion of non-retail business acres per town.
+4 CHAS - Charles River dummy variable (1 if tract bounds river; 0 otherwise)
+5 NOX - nitric oxides concentration (parts per 10 million)
 RM - average number of rooms per dwelling
 AGE - proportion of owner-occupied units built prior to 1940
 DIS - weighted distances to five Boston employment centres
