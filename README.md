@@ -1,7 +1,7 @@
 # home-price-prediction
 
 
-Each record in the database describes a Boston suburb or town. The data was drawn from the Boston Standard Metropolitan Statistical Area (SMSA). The dataset contains a total of 506 cases.
+Each record in the database describes a Boston suburb or town. The data was drawn from the Boston Standard Metropolitan Statistical Area. The dataset contains a total of 506 cases.
 
 There are 14 attributes in each case of the dataset. They are:
 
