@@ -8,7 +8,7 @@ I have used and compared four approches for prediction, and Ranked their predict
 
 There are 13 attributes in each case of the dataset. They are:
 
-1 CRIM - per capita crime rate by town
+1 CRIM - per capita crime rate by town \n
 2 ZN - proportion of residential land zoned for lots over 25,000 sq.ft.
 3 INDUS - proportion of non-retail business acres per town.
 4 CHAS - Charles River dummy variable (1 if tract bounds river; 0 otherwise)
